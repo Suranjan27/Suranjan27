@@ -14,7 +14,13 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/Suranjan27/Suranjan27/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="line" />
+</p>
 
 ---
 
@@ -27,6 +33,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Suranjan27/Suranjan27/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Suranjan27/Suranjan27/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Suranjan27/Suranjan27/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 
 ## 📊 GitHub Stats
 ![Suranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
